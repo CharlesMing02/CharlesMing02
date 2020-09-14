@@ -1,5 +1,5 @@
 ### Hi there 👋
-Resident github noob 😬🙂
+Resident github noob 🙂
 
 <!--
 **CharlesMing02/CharlesMing02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
