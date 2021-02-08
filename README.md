@@ -1,4 +1,4 @@
-### Hi there 👋
+### Gitty up 🤠
 Resident github noob 🙂
 
 <!--
